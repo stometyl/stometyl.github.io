@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stometyl.github.io/sitemap
+Sitemap: https://stometyl.github.io/app/sitemap
+Sitemap: https://stometyl.github.io/assets/sitemap
+Sitemap: https://stometyl.github.io/css/sitemap
+Sitemap: https://stometyl.github.io/includes/sitemap
+Sitemap: https://stometyl.github.io/item/sitemap
+Sitemap: https://stometyl.github.io/src/sitemap
